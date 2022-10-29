@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swen-chan
 - 👀 I’m interested in sports,math,politics,economy and movies.
-- 🌱 I’m currently learning c programming language.
+- 🌱 I’m currently learning c++/python programming language.
 - 💞️ I’m looking to collaborate on IT/economy/financial/etc.
 - 📫 How to reach me---  swenchan96@gmail.com
 
