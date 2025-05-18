@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swen-chan
+- 👋 Hi, I’m @swen-chan, a lifelong learner!
 - 👀 I’m interested in computer science, economics, politics, mathematics, sports, and movies.
 - 🌱 I’m currently a student of BScCS of UOL.
 - 💞️ I have earned master degree on economics and bachelor degree in finance.
