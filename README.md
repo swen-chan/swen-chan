@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @swen-chan
-- 👀 I’m interested in computer science,politics,economics,mathematics,sports,and movies.
-- 🌱 I’m currently a student of BSc CS of UOL.
-- 💞️ I’m looking to collaborate on IT/economy/financial/etc.
+- 👀 I’m interested in computer science, economics, politics, mathematics, sports, and movies.
+- 🌱 I’m currently a student of BScCS of UOL.
+- 💞️ I have earned master degree on economics and bachelor degree in finance.
+- I'm reasearching and developing educational AI Agent project with one university in China.
 - 📫 How to reach me---  swenchan96@gmail.com
 
