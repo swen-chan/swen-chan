@@ -12,10 +12,10 @@ With a background in economics, finance, and computer science, I enjoy turning e
 
 | Project | What it does |
 | --- | --- |
-| [ProtoMon](https://github.com/EIP-Playground/ProtoMon-Yahtzee) | An onchain roguelite dice battler with optimistic gameplay, verifiable settlement, session-key UX, and cross-chain rewards. |
+| [Cockpit](https://github.com/swen-chan/cockpit) | A local, read-only observability console for Hermes Agent, bringing recent activity, active context, workspace files, and scheduled jobs into one browser interface. |
 | [DealAgent](https://github.com/swen-chan/DealAgent) | An AI agent that connects merchant inventory workflows with programmable payments. |
 | [QuotaDEX](https://github.com/EIP-Playground/QuotaDEX) | An agent-to-agent marketplace for idle AI compute quotas using HTTP 402 and Web3 micropayments. |
-| [PersonalPage](https://github.com/swen-chan/PersonalPage) | My bilingual portfolio and home for selected work, experience, and collaboration details. |
+| [EIP Playground](https://github.com/EIP-Playground/EIP-Playground) | A gamified platform for learning Ethereum standards through interactive simulations, an AI tutor, wallet-based practice, and onchain achievement badges. |
 
 ## GitHub Activity
 
