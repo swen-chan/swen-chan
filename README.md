@@ -12,7 +12,7 @@ With a background in economics, finance, and computer science, I enjoy turning e
 
 | Project | What it does |
 | --- | --- |
-| [Cockpit](https://github.com/swen-chan/cockpit) | A local, read-only observability console for Hermes Agent, bringing recent activity, active context, workspace files, and scheduled jobs into one browser interface. |
+| [Cockpit](https://github.com/swen-chan/cockpit) | A local, read-only dashboard for understanding what your agents are doing, with developer-preview support for Hermes Agent and Codex. |
 | [DealAgent](https://github.com/swen-chan/DealAgent) | An AI agent that connects merchant inventory workflows with programmable payments. |
 | [QuotaDEX](https://github.com/EIP-Playground/QuotaDEX) | An agent-to-agent marketplace for idle AI compute quotas using HTTP 402 and Web3 micropayments. |
 | [EIP Playground](https://github.com/EIP-Playground/EIP-Playground) | A gamified platform for learning Ethereum standards through interactive simulations, an AI tutor, wallet-based practice, and onchain achievement badges. |
