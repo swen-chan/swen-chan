@@ -1,6 +1,6 @@
-# Hi, I'm Swen 👋
+# Hi, I'm Swen Chan 👋
 
-I'm a product engineer building AI-native products, developer tools, and practical onchain applications.
+I'm a product engineer and founder building AI-native products, developer tools, and embedded systems. I'm open to remote and international opportunities.
 
 With a background in economics, finance, and computer science, I enjoy turning emerging technologies into useful products—from early product discovery to working systems.
 
@@ -13,7 +13,7 @@ With a background in economics, finance, and computer science, I enjoy turning e
 | Project | What it does |
 | --- | --- |
 | [Cockpit](https://github.com/swen-chan/cockpit) | A local, read-only dashboard for understanding what your agents are doing, with developer-preview support for Hermes Agent and Codex. |
-| [DealAgent](https://github.com/swen-chan/DealAgent) | An AI agent that connects merchant inventory workflows with programmable payments. |
+| [DealAgent](https://github.com/swen-chan/DealAgent) | An AI-native commerce and operations product for hospitality, connecting inventory workflows with programmable payments. |
 | [QuotaDEX](https://github.com/EIP-Playground/QuotaDEX) | An agent-to-agent marketplace for idle AI compute quotas using HTTP 402 and Web3 micropayments. |
 | [EIP Playground](https://github.com/EIP-Playground/EIP-Playground) | A gamified platform for learning Ethereum standards through interactive simulations, an AI tutor, wallet-based practice, and onchain achievement badges. |
 
